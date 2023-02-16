@@ -32,7 +32,7 @@ import java.util.UUID;
 @Slf4j
 public class MemberController {
 
-    static String path ="/Users/hwangjiwon/eclipse-workspace/TravelMaker/TravelMaker/src/main/resources/static/upload/";
+    static String path ="C:\\Users\\nhic0\\git\\TravelMakerUpdateChae\\TravelMaker\\TravelMaker\\src\\main\\resources\\static\\upload\\";
 
     @Resource(name = "memberService")
     MemberService memberService;

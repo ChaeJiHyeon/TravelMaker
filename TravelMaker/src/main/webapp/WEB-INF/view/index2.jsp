@@ -51,17 +51,18 @@
 <div id='empty'></div>
 <div id='content'>
 	<section id="hero">
-		<div class="bkg-img" style="background-image:url('https://farm4.staticflickr.com/3372/3299941029_0074286419_o.jpg');"></div>
+			<video class="bg-video__content bkg-img"autoplay muted loop>
+			    <source src="video/index.mp4" type="video/mp4"/>
+			</video>
 			<div id='hero-content'>
-				<span id='start'>서울 출발</span>
-				<span id='startDate'>가는 날</span>
+				<span id='startDate'>출발일</span>
 				<input type='date' id='date1' placeholder="날짜 선택"
 					   required aria-required="true" class="dateSelector"/>
 				<span id='amPm1'>
 					<input type='radio' value='am' name='time1'/>오전
 					<input type='radio' value='pm' name='time1'/>오후
 				</span>
-				<span id='endDate'>오는 날</span>
+				<span id='endDate'>도착일</span>
 				<input type='date' id='date2' placeholder="날짜 선택"
 					   required aria-required="true" class="dateSelector"/>
 				<span id='amPm2'>

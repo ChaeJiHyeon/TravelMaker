@@ -13,7 +13,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 @RestController
 public class ReviewTwoController {
-	String uploadPath = "C:\\Users\\junah\\git\\TravelMaker\\TravelMaker\\src\\main\\resources\\static\\upload\\";
+	String uploadPath = "C:\\Users\\nhic0\\git\\TravelMakerUpdateChae\\TravelMaker\\TravelMaker\\src\\main\\resources\\static\\upload\\";
 	
 	@Autowired
 	ReviewTwoService service;
