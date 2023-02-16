@@ -5,12 +5,23 @@ MZ세대를 타겟으로 한 랜덤 기차 티켓 여행 사이트<br/>
 제작 기간 : 2022.12.21 ~ 2023.01.27
 <br/>
 <br/>
-#### 구현 기능
-1. 회원 가입 및 간편 로그인
-2. 랜덤기차 티켓 구매
-3. 추천 여행지 리스트 출력
-4. 버킷 리스트 및 일정 계획
-5. 후기 게시판
+#### Update
+1. 일정 / 여행지 공유링크 / 카카오톡으로 전달
+2. 일정 추천버튼 클릭시 평 좋은 일정 자동으로 등록
+3. 차 이동 시간 및 거리 출력
+4. 드래그 앤 드랍(일정)
+5. View부분 수정
+6. bucket에서 plan으로 이동시 bucket에 출력 x
+<br/>
+<br/>
+<h4>구현 기능</h4>
+<ol>
+  <li>회원 가입 및 간편 로그인</li>
+  <li>랜덤기차 티켓 구매</li>
+  <li>추천 여행지 리스트 출력</li>
+  <li>버킷 리스트 및 일정 계획</li>
+  <li>후기 게시판</li>
+</ol>
 <br/>
 <br/>
 <h3> Usage </h3>
@@ -53,5 +64,4 @@ MZ세대를 타겟으로 한 랜덤 기차 티켓 여행 사이트<br/>
 ![image](https://user-images.githubusercontent.com/51295326/219368635-35821627-cd88-4662-b0ad-bb682790e1cd.png)
 ![image](https://user-images.githubusercontent.com/51295326/219368658-0bd4a7c3-e213-4e79-b343-b5b565f3de98.png)
 ![image](https://user-images.githubusercontent.com/51295326/219368681-3e87dfe9-7633-4e08-aa9a-eb6e5bb0e39c.png)
-
 
